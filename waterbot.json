@@ -1,1 +1,46 @@
-{}
+{
+  "schedules": [
+    { "days": "odd",
+      "start_time": "05:00",
+      "timezone": "America/Chicago" }
+  ],
+  "zones": {
+    "along driveway, near garage": {
+      "gpio": 1,
+      "minutes": 10
+    },
+    "along driveway, near carport": {
+      "gpio": 2,
+      "minutes": 10
+    },
+    "along driveway, near street": {
+      "gpio": 3,
+      "minutes": 10
+    },
+    "backyard flowerbeds, near back fence": {
+      "gpio": 4,
+      "minutes": 10
+    },
+    "backyard grass between garage and pool": {
+      "gpio": 5,
+      "minutes": 8
+    },
+    "backyard near master bedroom": {
+      "gpio": 6,
+      "minutes": 8
+    },
+    "side of house by pool and A/C equipment": {
+      "gpio": 7,
+      "minutes": 8
+    },
+    "front flowerbeds and grass near flowerbeds": {
+      "gpio": 8,
+      "minutes": 15
+    },
+    "front grass near street": {
+      "gpio": 9,
+      "minutes": 20
+    }
+  },
+  "common_gpio": 0,
+}
