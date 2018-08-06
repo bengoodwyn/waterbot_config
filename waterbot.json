@@ -1,39 +1,39 @@
 {
   "zones": {
     "1": {
-      "name": "along driveway, near garage",
+      "name": "driveway-near garage",
       "seconds": 600
     },
     "2": {
-      "name": "along driveway, near carport",
+      "name": "driveway-near kitchen",
       "seconds": 600
     },
     "3": {
-      "name": "along driveway, near street",
+      "name": "driveway-near street",
       "seconds": 600
     },
     "4": {
-      "name": "backyard flowerbeds, near back fence",
+      "name": "backy-near back fence",
       "seconds": 600
     },
     "5": {
-      "name": "backyard grass between garage and pool",
+      "name": "back-between garage and pool",
       "seconds": 600
     },
     "6": {
-      "name": "backyard near master bedroom",
+      "name": "back-near master bedroom",
       "seconds": 600
     },
     "7": {
-      "name": "side of house by pool and A/C equipment",
+      "name": "side-by A/C units",
       "seconds": 600
     },
     "8": {
-      "name": "front flowerbeds and grass near flowerbeds",
+      "name": "front-flowerbeds",
       "seconds": 1800
     },
     "9": {
-      "name": "front grass near street",
+      "name": "front-street",
       "seconds": 1800
     }
   },
